@@ -7,7 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Garrett Jones | LinkedIn" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Garrett Jones | LinkedIn" width="22px" src="https://github.com/garrettjns/garrettjns/blob/main/LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
 
