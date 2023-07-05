@@ -1,4 +1,4 @@
-![Retrowave gif](https://github.com/garrettjns/garrettjns/blob/main/profile.gif | width = 200)
+![Retrowave gif](https://github.com/garrettjns/garrettjns/blob/main/profile.gif | width=150)
 
 <h1>Hi, I'm Garrett! Cybersecurity Analyst<br/></h1>
 
