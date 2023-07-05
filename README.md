@@ -1,4 +1,3 @@
-![Retrowave gif](https://github.com/garrettjns/garrettjns/blob/main/profile.gif)
 <h1>Hi, I'm Garrett! Cybersecurity Professional <br/></h1>
 
 <h2>👨‍💻 Information Security Projects:</h2>
