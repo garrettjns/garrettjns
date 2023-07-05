@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Security Projects:</h2>
 
-![Retrowave gif](https://github.com/garrettjns/garrettjns/blob/main/profile.gif | width=130)
+![Retrowave gif](https://github.com/garrettjns/garrettjns/blob/main/profile.gif=200x200)
 
 - <b>Azure Projects</b>
   - [Creating a live honeynet in Azure](https://github.com/garrettjns/honeynet-siem)
