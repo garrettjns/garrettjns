@@ -10,8 +10,8 @@
 [<img align="left" alt="Garrett Jones | LinkedIn" width="22px" src="https://github.com/garrettjns/garrettjns/blob/main/LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
-
-[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png" alt="TryHackMe">)
+<b></b>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png" alt="TryHackMe">]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
