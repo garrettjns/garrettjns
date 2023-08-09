@@ -10,9 +10,7 @@
 [<img alt="Garrett Jones | LinkedIn" width="22px" src="https://github.com/garrettjns/garrettjns/blob/main/LinkedIn_logo_initials.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
-
 <br>
-
 <h2> ⚡ Miscellaneous </h2>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png)
