@@ -11,6 +11,8 @@
 
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
 
+<h2> ⚡ Miscellaneous </h2>
+
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png)
 
 <!--
