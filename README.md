@@ -12,10 +12,7 @@
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
 
 
-
-
-
-[<img align="left" alt="Garrett Jones | TryHackMe" width="22px" src="https://github.com/garrettjns/garrettjns/blob/main/badge.png" />]
+[<img align="left" alt="Garrett Jones | TryHackMe" width="22px" src="https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png" />]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
