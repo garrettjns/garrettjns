@@ -12,7 +12,7 @@
 [linkedin]: https://www.linkedin.com/in/garrett-jones-0036b9150/
 <br>
 <h2> ⚡ Miscellaneous </h2>
-[comment]: <> (Updated badge)
+  
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Mr.Boss.png) 
 
 <!--
